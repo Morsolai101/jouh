@@ -1,5 +1,3 @@
--------- Generated from https://sefinek.net/blocklist-generator at 2024-03-18T21:19:42.545Z --------
-
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/test.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/0Zinc/easylist.fork.txt
 https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/adaway/hosts.fork.txt
